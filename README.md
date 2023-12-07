@@ -35,7 +35,7 @@
     - **Database-diagram:**
         - Diagram:
         
-        ![table_diagram.png](Database%20Hw2%208a94cb8d4c2c42899ea6976ea6494984/table_diagram.png)
+        ![table_diagram.png](readme_image/table_diagram.png)
         
         - the table is created based on the previous E-R diagram.
 4. Indicate FD to each table.
