@@ -16,7 +16,7 @@
     - **E-R diagram**
         - Diagram:
             
-            ![image] (readme_image/%E8%B3%87%E6%96%99%E5%BA%AB%E4%BD%9C%E6%A5%AD%E4%BA%8C.drawio_(3).png)
+            ![image](readme_image/%E8%B3%87%E6%96%99%E5%BA%AB%E4%BD%9C%E6%A5%AD%E4%BA%8C.drawio_(3).png)
             
         - I create a new entity called ***Policy*** to show record the `date` and `jurisdiction`
             - relations in format:  `policy_<type>` indicate the relation between ***Policy*** and those weak entities.
