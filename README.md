@@ -16,7 +16,7 @@
     - **E-R diagram**
         - Diagram:
             
-            ![資料庫作業二.drawio (3).png](Database%20Hw2%208a94cb8d4c2c42899ea6976ea6494984/%25E8%25B3%2587%25E6%2596%2599%25E5%25BA%25AB%25E4%25BD%259C%25E6%25A5%25AD%25E4%25BA%258C.drawio_(3).png)
+            ![資料庫作業二.drawio (3).png][(Database%20Hw2%208a94cb8d4c2c42899ea6976ea6494984/%25E8%25B3%2587%25E6%2596%2599%25E5%25BA%25AB%25E4%25BD%259C%25E6%25A5%25AD%25E4%25BA%258C.drawio_(3).png)](https://github.com/DennisRapheal/Database_HW2/blob/main/readme_image/%25E8%25B3%2587%25E6%2596%2599%25E5%25BA%25AB%25E4%25BD%259C%25E6%25A5%25AD%25E4%25BA%258C.drawio_(3).png)
             
         - I create a new entity called ***Policy*** to show record the `date` and `jurisdiction`
             - relations in format:  `policy_<type>` indicate the relation between ***Policy*** and those weak entities.
